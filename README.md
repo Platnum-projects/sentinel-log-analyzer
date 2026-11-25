@@ -42,9 +42,9 @@ Each line is a JSON object with `timestamp` (ISO 8601 UTC), `event_type` (`login
   "title": "Successful login after repeated failures",
   "username": "admin",
   "source_ip": "203.0.113.44",
-  "first_seen": "2025-03-10T09:01:00Z",
+  "first_seen": "2025-03-10T09:00:00Z",
   "last_seen": "2025-03-10T09:06:00Z",
-  "evidence_count": 4,
+  "evidence_count": 6,
   "evidence": ["... event IDs ..."]
 }
 ```
